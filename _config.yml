@@ -1,2 +1,3 @@
 name: Sam Wetherill, Software Engineer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
